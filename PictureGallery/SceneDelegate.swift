@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PictureGallery
 //
-//  Created by 1 on 12.09.2021.
+//  Created by Andrey Sinetskiy on 12.09.2021.
 //
 
 import UIKit
